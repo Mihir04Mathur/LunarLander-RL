@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+models/
+results/
+outputs/
+work/
+*.zip
+*.mp4
+*.npz
+*.tfevents.*
+*.monitor.csv
+*.csv
+.env
+.env.*
+.DS_Store
